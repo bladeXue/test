@@ -7,4 +7,5 @@ int main()
     printf("dadadasdas");
     printf("develop-1");
     printf("develop-2");
+    printf("master");
 }
