@@ -16,3 +16,14 @@ This is a paragraph of fuck-you reference~[2]~.
 [2] fuck
 
 
+This is a paragraph of fuck-you reference[^1].
+
+This is a paragraph of fuck-you reference[~2].
+
+
+[^1]: cnm
+
+[~2]: fuck
+
+
+
